@@ -3,15 +3,15 @@
 * "JANGAN MODAL NAMA DOANG BRO!!!"
 * SCRIPT BY ARIS187 ID
 * JANGAN MODAL NAMA DOANG BOSQ
-* HARGAILAH YY MEMBUAT SCRIPT INI BOSQ
+* HARGAILAH YG MEMBUAT SCRIPT INI BOSQ
 * JANGAN UBAH-UBAH INFO!!!
-* ARIS187 ID
+* ARIS187 ID Fork by JavzlynBot
 * BOLEH UBAH TAPI KECUALI INFO!!!
 */
-const A187 = '👾AR15BOT👾'; // JANGAN UBAH-UBAH INFO!!!
+const A187 = 'JavzlynBot🐦'; // JANGAN UBAH-UBAH INFO!!!
 const instagram = 'https://instagram.com/_sadboy.ig'; // JANGAN UBAH-UBAH INFO!!!
-const nomer = 'Wa.me/+6285722553839'; // JANGAN UBAH-UBAH INFO!!!
-const aktif = 'Tergantung jaringan'; // JANGAN UBAH-UBAH INFO!!!
+const nomer = 'Wa.me/+6281223461910'; // JANGAN UBAH-UBAH INFO!!!
+const aktif = 'Tergantung koneksi jaringan'; // JANGAN UBAH-UBAH INFO!!!
 const groupwhatsapp = 'https://chat.whatsapp.com/GU6NsgZvfgw37vrjIxUPhP'; // JANGAN UBAH-UBAH INFO!!!
 const youtube = 'https://www.youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg'; // JANGAN UBAH-UBAH INFO!!!
 //A187ID
