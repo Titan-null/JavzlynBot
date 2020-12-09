@@ -103,7 +103,6 @@ Script ini di modifikasi sama saya sendiri Aris187ID Fork by Titan-null(hanya Fo
 Ket: Aktiv 24 jam
 
 ## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
-* [`Subscribe Aris187ID`](https://https://www.youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg)
 
 
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
