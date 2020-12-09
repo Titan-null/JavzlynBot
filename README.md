@@ -63,7 +63,7 @@ Script ini di modifikasi sama saya sendiri Aris187ID Fork by Titan-null(hanya Fo
 
 ## FEATURES  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29px">
 
-| AR15BOT      |                   Feature        |
+| JAVZLYN      |                   Fitur         |
 | :-----------: | :------------------------------: |
 |       ✅       | Sticker Creator                  |
 |       ✅       | Nulis                            |
