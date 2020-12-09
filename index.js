@@ -13,7 +13,7 @@ const instagram = 'https://instagram.com/_sadboy.ig'; // JANGAN UBAH-UBAH INFO!!
 const nomer = 'Wa.me/+6281223461910'; // JANGAN UBAH-UBAH INFO!!!
 const aktif = 'Tergantung koneksi jaringan'; // JANGAN UBAH-UBAH INFO!!!
 const groupwhatsapp = 'https://chat.whatsapp.com/GU6NsgZvfgw37vrjIxUPhP'; // JANGAN UBAH-UBAH INFO!!!
-const youtube = 'https://www.youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg'; // JANGAN UBAH-UBAH INFO!!!
+const youtube = 'https://www.youtube.com/channel/UCVsWylgplnE294DRojNuXSw'; // JANGAN UBAH-UBAH INFO!!!
 //A187ID
 const qrcode = require("qrcode-terminal");
 const moment = require("moment");
@@ -64,7 +64,7 @@ conn.on('qr', qr =>
    {
       small: true
    });
-   console.log(`[ ${moment().format("HH:mm:ss")} ] AR15BOT ready scan now!`);
+   console.log(`[ ${moment().format("HH:mm:ss")} ] JavzlynBot🐦 ready scan now!`);
 });
 
 conn.on('credentials-updated', () =>
@@ -83,7 +83,7 @@ conn.on('user-presence-update', json => console.log(`[ ${moment().format("HH:mm:
 conn.on('message-status-update', json =>
 {
    const participant = json.participant ? ' (' + json.participant + ')' : '' // participant exists when the message is from a group
-   console.log(`[ ${moment().format("HH:mm:ss")} ] => bot by @_sadboy.ig`)
+   console.log(`[ ${moment().format("HH:mm:ss")} ] => bot by Titan-null`)
 })
 
 conn.on('message-new', async(m) =>
@@ -374,7 +374,7 @@ axios.get(`https://arugaz.herokuapp.com/api/fb?url=${teks}`).then((res) => {
 if (text.includes("!ig")){
 const teks = text.replace(/!ig /, "")
 axios.get(`https://alfians-api.herokuapp.com/api/ig?url=${teks}`).then((res) => {
-    let hasil = `✅Dwonload sendiri link error maaf\n\nLink: ${res.data.result}`;
+    let hasil = `✅Download sendiri link error maaf\n\nLink: ${res.data.result}`;
     conn.sendMessage(id, hasil ,MessageType.text);
 })
 }
@@ -432,7 +432,7 @@ if (text.includes("!puisi1")){
 const teks = text.replace(/!puisi1 /, "")
 axios.get(`https://arugaz.herokuapp.com/api/puisi1`).then((res) => {
 conn.sendMessage(id, '[WAIT] Searching...❗', MessageType.text)
-    let hasil = ` *Nih Puisinya Kak :)*\n\n _${res.data.result}_ `;
+    let hasil = ` *Nih Puisinya Weh_-*\n\n _${res.data.result}_ `;
     conn.sendMessage(id, hasil ,MessageType.text);
 })
 }
@@ -440,7 +440,7 @@ if (text.includes("!puisi2")){
 const teks = text.replace(/!puisi2 /, "")
 axios.get(`https://arugaz.herokuapp.com/api/puisi3`).then((res) => {
 conn.sendMessage(id, '[WAIT] Searching...❗', MessageType.text)
-    let hasil = ` *Nih Puisinya Kak :)*\n\n _${res.data.result}_ `;
+    let hasil = ` *Nih Puisinya Weh_-*\n\n _${res.data.result}_ `;
     conn.sendMessage(id, hasil ,MessageType.text);
 })
 }
@@ -448,7 +448,7 @@ if (text.includes("!cerpen")){
 const teks = text.replace(/!cerpen /, "")
 axios.get(`https://arugaz.herokuapp.com/api/cerpen`).then((res) => {
 conn.sendMessage(id, '[WAIT] Searching...❗', MessageType.text)
-    let hasil = ` *Nih cerpen Kak :)*\n\n _${res.data.result}_ `;
+    let hasil = ` *Nih cerpen-nya Weh_-*\n\n _${res.data.result}_ `;
     conn.sendMessage(id, hasil ,MessageType.text);
 })
 }
@@ -456,7 +456,7 @@ if (text.includes("!cersex")){
 const teks = text.replace(/!cersex /, "")
 axios.get(`https://arugaz.herokuapp.com/api/cersex2`).then((res) => {
 conn.sendMessage(id, '[WAIT] Searching...❗', MessageType.text)
-    let hasil = ` *Nih cersex Kak :)*\n\n _${res.data.result}_ `;
+    let hasil = ` *Astaga Tobat kak:(*\n\n _${res.data.result}_ `;
     conn.sendMessage(id, hasil ,MessageType.text);
 })
 }
@@ -464,7 +464,7 @@ if (text.includes("!quotes1")){
 const teks = text.replace(/!quotes1 /, "")
 axios.get(`https://arugaz.herokuapp.com/api/randomquotes`).then((res) => {
 conn.sendMessage(id, '[WAIT] Searching...❗', MessageType.text)
-    let hasil = ` *Nih Quotes Kak :)*\n\n *Author* : _${res.data.author}_ \n\n *Quotes* : _${res.data.quotes}_ `;
+    let hasil = ` *Nih Quotes-nya Weh_-*\n\n *Author* : _${res.data.author}_ \n\n *Quotes* : _${res.data.quotes}_ `;
     conn.sendMessage(id, hasil ,MessageType.text);
 })
 }
@@ -472,14 +472,14 @@ if (text.includes("!spamcall")){
 const teks = text.replace(/!spamcall /, "")
 axios.get(`https://arugaz.herokuapp.com/api/spamcall?no=${teks}`).then((res) => {
 	conn.sendMessage(id, '[WAIT] Proses...❗', MessageType.text)
-    let hasil = ` *INFO SPAM CALL* \n\n _${res.data.logs}_`;
+    let hasil = ` *INFO SPAM CALLING* \n\n _${res.data.logs}_`;
     conn.sendMessage(id, hasil ,MessageType.text);
 })
 }
 if (text.includes("!bucin")){
 const teks = text.replace(/!bucin /, "")
 axios.get(`https://arugaz.herokuapp.com/api/howbucins`).then((res) => {
-	conn.sendMessage(id, '[WAIT] Proses...❗', MessageType.text)
+	conn.sendMessage(id, '[WAIT] PROCESSING...❗', MessageType.text)
     let hasil = ` _${res.data.desc}_ `;
     conn.sendMessage(id, hasil ,MessageType.text);
 })
@@ -488,7 +488,7 @@ axios.get(`https://arugaz.herokuapp.com/api/howbucins`).then((res) => {
 if (text.includes("!tts")){
 const teks = text.replace(/!tts /, "")
 axios.get(`http://scrap.terhambar.com/tts?kata=${teks}`).then((res) => {
-	conn.sendMessage(id, '[WAIT] Proses...❗', MessageType.text)
+	conn.sendMessage(id, '[WAIT] PROCESSING...❗', MessageType.text)
     let hasil = `${res.data.result}`;
     conn.sendMessage(id, hasil ,MessageType.audio);
 })
@@ -505,7 +505,7 @@ axios.get(`https://arugaz.herokuapp.com/api/dewabatch?q=${teks}`).then((res) => 
 if (text.includes("!gay")){
 const teks = text.replace(/!gay /, "")
 axios.get(`https://arugaz.herokuapp.com/api/howgay`).then((res) => {
-	conn.sendMessage(id, '[WAIT] Proses...❗', MessageType.text)
+	conn.sendMessage(id, '[WAIT] PROCESSING...❗', MessageType.text)
     let hasil = ` ${res.data.desc} \n\n *Persen Gay Lo!!!* _${res.data.persen}_`;
     conn.sendMessage(id, hasil ,MessageType.text);
 })
@@ -513,7 +513,7 @@ axios.get(`https://arugaz.herokuapp.com/api/howgay`).then((res) => {
 if (text.includes("!spamsms")){
 const teks = text.replace(/!spamsms /, "")
 axios.get(`https://arugaz.herokuapp.com/api/spamsms?no=${teks}&jum=20`).then((res) => {
-	conn.sendMessage(id, '[WAIT] Proses...❗', MessageType.text)
+	conn.sendMessage(id, '[WAIT] PROCESSING...❗', MessageType.text)
     let hasil = ` *INFO SPAM SMS 20 PESAN* \n\n _${res.data.logs}_`;
     conn.sendMessage(id, hasil ,MessageType.text);
 })
@@ -522,7 +522,7 @@ if (text.includes("!indohot")){
 const teks = text.replace(/!indohot /, "")
 axios.get(`https://arugaz.herokuapp.com/api/indohot`).then((res) => {
 	conn.sendMessage(id, '[WAIT] Proses...❗', MessageType.text)
-    let hasil = ` *Tobat Bosq* \n\n *Judul* _${res.data.result.judul}_ \n\n *Status* _${res.data.result.genre}_ \n\n *Durasi* _${res.data.result.durasi}_ \n\n *Link Bosq* _${res.data.result.url}_ `;
+    let hasil = ` *Tobat Weh_-* \n\n *Judul* _${res.data.result.judul}_ \n\n *Status* _${res.data.result.genre}_ \n\n *Durasi* _${res.data.result.durasi}_ \n\n *Link Bosq* _${res.data.result.url}_ `;
     conn.sendMessage(id, hasil ,MessageType.text);
 })
 }
@@ -538,7 +538,7 @@ if (text.includes("!covid")){
 const teks = text.replace(/!covid /, "")
 axios.get(`https://arugaz.herokuapp.com/api/coronaindo`).then((res) => {
 conn.sendMessage(id, '[WAIT] Searching...❗', MessageType.text)
-    let hasil = ` *🔎DATA WABAH COVID-19 TERBARU DI INDONESIA🔍* \n\n *Kasus Baru* : _${res.data.kasus_baru}_ \n\n *Kasus Total* : _${res.data.kasus_total}_ \n\n *Meninggal* : _${res.data.meninggal}_ \n\n *Negara* : _${res.data.negara}_ \n\n *Penanganan* : _${res.data.penanganan}_ \n\n *Sembuh* : _${res.data.sembuh}_ \n\n *Terakhir* : _${res.data.terakhir}_ `;
+    let hasil = ` *🔎DATA WABAH COVID-19 TERBARU DI INDONESIA🇮🇩* \n\n *Kasus Baru* : _${res.data.kasus_baru}_ \n\n *Kasus Total* : _${res.data.kasus_total}_ \n\n *Meninggal* : _${res.data.meninggal}_ \n\n *Negara* : _${res.data.negara}_ \n\n *Penanganan* : _${res.data.penanganan}_ \n\n *Sembuh* : _${res.data.sembuh}_ \n\n *Terakhir* : _${res.data.terakhir}_ `;
     conn.sendMessage(id, hasil ,MessageType.text);
 })
 }
@@ -554,7 +554,7 @@ if (text.includes("!namaninja")){
 const teks = text.replace(/!namaninja /, "")
 axios.get(`https://api.terhambar.com/ninja?nama=${teks}`).then((res) => {
 	conn.sendMessage(id, '[WAIT] Searching...❗', MessageType.text)
-    let hasil = `Nama Ninja kamu🙂:\n\n${res.data.result.ninja}`;
+    let hasil = `Hasil-nya:\n\n${res.data.result.ninja}`;
     conn.sendMessage(id, hasil ,MessageType.text);
 })
 }
@@ -932,22 +932,22 @@ else if (text == '!foto'){
 conn.sendMessage(id, 'kirim !foto cewek/cowok\n\nContoh: !foto cewek' ,MessageType.text);
 }
 else if (text == '#help'){
-conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾AR15BOT👾* , Follow Instagram Mimin Yah😻 : https://instagram.com/_sadboy.ig_' ,MessageType.text);
+conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *JavzlynBot🐦*' ,MessageType.text);
 }
 else if (text == '#menu1'){
-conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾AR15BOT👾* , Follow Instagram Mimin Yah😻 : https://instagram.com/_sadboy.ig_' ,MessageType.text);
+conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *JavzlynBot🐦*' ,MessageType.text);
 }
 else if (text == '#menu'){
-conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾AR15BOT👾* , Follow Instagram Mimin Yah😻 : https://instagram.com/_sadboy.ig_' ,MessageType.text);
+conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *JavzlynBot🐦*' ,MessageType.text);
 }
 else if (text == '#menu2'){
-conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾AR15BOT👾* , Follow Instagram Mimin Yah😻 : https://instagram.com/_sadboy.ig_' ,MessageType.text);
+conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *JavzlynBot🐦* , Follow Instagram Mimin Yah😻 : https://instagram.com/_sadboy.ig_' ,MessageType.text);
 }
 else if (text == '#menu3'){
-conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾AR15BOT👾* , Follow Instagram Mimin Yah😻 : https://instagram.com/_sadboy.ig_' ,MessageType.text);
+conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *JavzlynBot🐦* , Follow Instagram Mimin Yah😻 : https://instagram.com/_sadboy.ig_' ,MessageType.text);
 }
 else if (text == '#menu4'){
-conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾AR15BOT👾* , Follow Instagram Mimin Yah😻 : https://instagram.com/_sadboy.ig_' ,MessageType.text);
+conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *JavzlynBot🐦* , Follow Instagram Mimin Yah😻 : https://instagram.com/_sadboy.ig_' ,MessageType.text);
 }
    if (messageType == 'imageMessage')
    {
