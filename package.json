@@ -1,5 +1,5 @@
 {
-  "name": "AR15BOT",
+  "name": "JavzlynBot🐦",
   "version": "1.0.0",
   "description": "Termux only",
   "main": "index.js",
@@ -37,7 +37,7 @@
   "author": "Abdul Muttaqin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/aris187id/AR15BOT/issues"
+    "url": "https://github.com/Titan-null/JavzlynBot/issues"
   },
-  "homepage": "https://github.com/aris187id/AR15BOT#readme"
+  "homepage": "https://github.com/Titan-null/JavzlynBot#readme"
 }
