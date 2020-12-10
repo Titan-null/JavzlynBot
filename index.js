@@ -9,10 +9,10 @@
 * BOLEH UBAH TAPI KECUALI INFO!!!
 */
 const A187 = 'JavzlynBot🐦'; // JANGAN UBAH-UBAH INFO!!!
-const instagram = 'https://instagram.com/_sadboy.ig'; // JANGAN UBAH-UBAH INFO!!!
+const instagram = 'https://instagram/@febri_swag12'; // JANGAN UBAH-UBAH INFO!!!
 const nomer = 'Wa.me/+6281223461910'; // JANGAN UBAH-UBAH INFO!!!
 const aktif = 'Tergantung koneksi jaringan'; // JANGAN UBAH-UBAH INFO!!!
-const groupwhatsapp = 'https://chat.whatsapp.com/GU6NsgZvfgw37vrjIxUPhP'; // JANGAN UBAH-UBAH INFO!!!
+const groupwhatsapp = ''; // JANGAN UBAH-UBAH INFO!!!
 const youtube = 'https://www.youtube.com/channel/UCVsWylgplnE294DRojNuXSw'; // JANGAN UBAH-UBAH INFO!!!
 //A187ID
 const qrcode = require("qrcode-terminal");
