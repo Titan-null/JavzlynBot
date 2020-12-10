@@ -10,7 +10,7 @@
 <a href="#"><img title="Forks" src="https://img.shields.io/badge/Titan.null-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/A187ID"><img title="Author" src="https://img.shields.io/badge/AUTHOR-A187 ID-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Titan-null"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Titan-null-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://www.codefactor.io/repository/github/A187ID/AR15BOT"><img title="Rating" src="https://www.codefactor.io/repository/github/A187ID/AR15BOT/badge/main"></a>
@@ -29,7 +29,7 @@
 </details>
 
 ### WARNING
-MAU RE-UPLOAD SCRIPT? KASIH NAMA/LINK CHANEL SAYA: Aris187ID .... DILARANG UBAH INFO!!!
+MAU RE-UPLOAD SCRIPT? KASIH NAMA/LINK CHANEL SAYA: .... DILARANG UBAH INFO!!!
 
 ## NOTE:> 
 SCRIPTNYA JANGAN DI JUAL/BELI KAN.. SCRIPT INI 100% GRATIS 100% PUBLIC BUAT KALIAN PENGGUNA TERMUX
@@ -48,7 +48,7 @@ Siapin alat dan bahannya.
 ```
 
 ### CARA INSTALLNYA  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
-Script ini di modifikasi sama saya sendiri Aris187ID Fork by Titan-null(hanya Fork) real repository and participan is A187ID.
+Script ini di modifikasi sama saya sendiri Fork by Titan-null(hanya Fork) real repository and participan is A187ID.
 ```bash
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
@@ -102,14 +102,16 @@ Script ini di modifikasi sama saya sendiri Aris187ID Fork by Titan-null(hanya Fo
 
 Ket: Aktiv 24 jam
 
-## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
-
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px"> DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
+*[`OVOPAY`](+6281223461910)
+*[`PULSA`](+6281223461910)
+*[`GOPAY`](+6281223461910)
 
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
 * [`Youtube Admin`](https://www.youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg)
 * [`Youtube Fork`](https://www.youtube.com/channel/UCVsWylgplnE294DRojNuXSw)
-* [`WhatsApp Admin`](https://wa.me/+6285722553839)
+* [`WhatsApp Admin`](https://wa.me/+6281223461910)
 * [`WhatsApp Fork`](https://wa.me/+6281223461910)
 ## SPESIALIS THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 
