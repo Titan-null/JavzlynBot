@@ -1,4 +1,4 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi I'm Javzlyn
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi I'm Titan-null
 <p align="center">
 <img src="https://raw.githubusercontent.com/testingBOT9/matbot/main/temp/Oreki.jpg" width="230" height="230"/>
 </p>
@@ -73,7 +73,7 @@ Script ini di modifikasi sama saya sendiri Aris187 ID.
 
 ## FEATURES  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29px">
 
-| Javzlyn_ChatBot|                   Feature        |
+|    Status|                   Feature        |
 | :-----------: | :------------------------------: |
 |       ✅       | Sticker Creator                  |
 |       ✅       | Nulis                            |
@@ -113,8 +113,7 @@ Script ini di modifikasi sama saya sendiri Aris187 ID.
 Ket: Aktiv 24 jam
 
 ## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
-[`OVO`](0812-2346-1910)
-[`PULSA`](0812-2346-1910)
+* [`Saweria`](https://saweria.co/donate?Javzlyn)
 
 
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
@@ -124,11 +123,11 @@ Ket: Aktiv 24 jam
 * [`WhatsApp Admin `](https://wa.me/+6281223461910)
 ## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 
-* [`fdciabdul`](https://github.com/fdciabdul/termux-whatsapp-bot)
+* [`fdciabdul/termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
 
-* [`ArugaZ`](https://github.com/ArugaZ/whatsapp-bot)
-* [`MhankBarBar`](https://github.com/MhankBarBar/whatsapp-bot)
-* [`Alfbot`](https://github.com/alfiansx/alfbot)
-* [`a187id`](https://github.com/a187id/AR15BOT)
+* [`ArugaZ/whatsapp-bot`](https://github.com/ArugaZ/whatsapp-bot)
+* [`MhankBarBar/whatsapp-bot`](https://github.com/MhankBarBar/whatsapp-bot)
+* [`alfiansx/alfbot`](https://github.com/alfiansx/alfbot)
+* [`a187id/AR15BOT`](https://github.com/a187id/AR15BOT)
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
 
