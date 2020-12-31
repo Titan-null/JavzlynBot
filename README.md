@@ -60,8 +60,8 @@ Script ini di modifikasi sama saya sendiri Aris187 ID.
 > pkg install nodejs
 > apt update
 > apt upgrade
-> git clone https://github.com/testingBOT9/matbot
-> cd matbot
+> git clone https://github.com/Titan-null/JavzlynBot
+> cd JavzlynBot
 > npm i -g cwebp
 > npm i node-tesseract-ocr
 > npm i -g ytdl
